@@ -1,0 +1,90 @@
+{
+    "books": [
+        {
+            "number": 1,
+            "title": "1984",
+            "author_id": 1,
+            "publisher_id": 1,
+            "status": "in stock"
+        },
+        {
+            "number": 2,
+            "title": "Animal Farm",
+            "author_id": 1,
+            "publisher_id": 2,
+            "status": "in stock"
+        },
+        {
+            "number": 3,
+            "title": "Brave New World",
+            "author_id": 2,
+            "publisher_id": 3,
+            "status": "in stock"
+        },
+        {
+            "number": 4,
+            "title": "Fahrenheit 451",
+            "author_id": 3,
+            "publisher_id": 4,
+            "status": "in stock"
+        },
+        {
+            "number": 5,
+            "title": "The Great Gatsby",
+            "author_id": 4,
+            "publisher_id": 5,
+            "status": "in stock"
+        },
+        {
+            "number": 8,
+            "title": "gatto",
+            "author_id": 7,
+            "publisher_id": 7,
+            "status": "in stock"
+        },
+        {
+            "number": 9,
+            "title": "dirm4",
+            "author_id": 8,
+            "publisher_id": 9,
+            "status": "out of stock"
+        },
+        {
+            "number": 10,
+            "title": "dirm4",
+            "author_id": 9,
+            "publisher_id": 10,
+            "status": "in stock"
+        },
+        {
+            "number": 11,
+            "title": "trundh",
+            "author_id": 8,
+            "publisher_id": 9,
+            "status": "in stock"
+        }
+    ],
+    "authors": {
+        "George Orwell": 1,
+        "Aldous Huxley": 2,
+        "Ray Bradbury": 3,
+        "F. Scott Fitzgerald": 4,
+        "ergerth": 5,
+        "gatto": 6,
+        "cane": 7,
+        "jack muth": 8,
+        "thucj": 9
+    },
+    "publishers": {
+        "Secker & Warburg": 1,
+        "Penguin Books": 2,
+        "Chatto & Windus": 3,
+        "Ballantine Books": 4,
+        "Charles Scribner's Sons": 5,
+        "ergerthg": 6,
+        "gatto": 7,
+        "cane": 8,
+        "dumin": 9,
+        "hurtmsn": 10
+    }
+}
